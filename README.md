@@ -12,7 +12,7 @@ For this project, data from the rolling 12-month period (Nov 2019 - Oct 2020) wa
 
 ## Number of Trips/Trip Duration
 
-For the time period studied, there was a total of 325,044 Citi Bike trips taken, with the majority of those trips taking place in the summer (32%) and autumn (33%), with October having the most rides (40,646). Spring (14%) and Winter (21%) have the fewest number of trips taken, with April having the fewest rides (8,345). The reason for April numbers being so low, may be due to the emergence of Covid-19 and statewide lockdown orders. Analysis of previous year's seasonal data may yield additional information.
+For the time period studied, there was a total of 325,044 Citi Bike trips taken, with the majority of those trips taking place in the summer (32%) and autumn (33%), with October having the most rides (40,646). Spring (14%) and Winter (21%) have the fewest number of trips taken, with April having the least of all (8,345). The reason for the April numbers being so low may be due to the emergence of Covid-19 and statewide lockdown orders. Analysis of previous year's seasonal data may yield additional information.
 
 While Spring may have the fewest trips taken, it has the second highest average ride duration (14.8 mins), with May having the highest average ride duration, clocking in at 18.4 mins.
 
@@ -20,13 +20,13 @@ While Spring may have the fewest trips taken, it has the second highest average 
 
 ## Peak Hours by Season
 
-During the summer 5pm to 8pm is a peak time for riders, while the hours of midnight to 6am have the fewest. In winter, there appears to be two peak times 8am and again from 5pm to 7pm. These tend to coincide with rush hour traffic. While the summer of 2019 does not appear to have the morning peak like winter, this can perhaps be explained by more people working from home due to Covid-19 as well as school not being in session in the summer, so perhaps ride times are being delayed until later in the day.
+During the summer 5pm to 8pm is a peak time for riders, while the hours of midnight to 6am have very few rides. In winter, there appears to be two peak times: 8am and again from 5pm to 7pm. These tend to coincide with traditional rush hour traffic. While the summer of 2019 does not appear to have the morning peak like winter, this can perhaps be explained by more people working from home due to Covid-19 as well as school not being in session in the summer, perhaps pushing potential ride times until later in the day.
 
 ![Peak Hours](images/peak_hours.PNG)
 
 ## Gender
 
-72% of all Citi Bike users are male, while females make up around 28% While the numbers of trips taken each month follow a similar pattern, the peaks tend to be higher for males, while females are a little more constant from month to month.
+72% of all Citi Bike users are male, while females make up around 28%. While the numbers of trips taken by each gender follow a similar pattern over the last 12 months, the peaks tend to be higher for males, while females are a little more constant month to month.
 
 When looking at the average trip duration by gender, females are consistently riding longer than males each month for the last 12 months.
 
@@ -36,7 +36,7 @@ When looking at the average trip duration by gender, females are consistently ri
 
 By far, the most active group for Citi Bike usage is the 25to 34 year old group. People in this age group are less established in their careers, so they would likely have less money to pay for taxis or have a private form of transportation, thus making a program like Citi Bike more appealing.
 
-When looking at trip duration, however, the 16-24 year old group has the highest average duration, with females in this grouping having the highest average duration among all groups at 16.68 minutes. In all age groups but 55 to 64 years, females rode for longer, on average, than males.
+When looking at trip duration, however, the 16-24 year old group has the highest average duration, with females in this grouping having the highest average duration among all groups at 16.68 minutes. In all age groups but 55 to 64 years females rode for longer, on average, than males.
 
 76% of Citi Bike users are subscribers. Subscribers take much shorter trips than customers, with female customers having an average ride time of 21.21 mins, compared to only 10.62 of female subscribers.
 
@@ -50,7 +50,7 @@ Grove Path station is by far the most popular starting station overall, followed
 
 ## Trips by End Station
 
-Grove Path station is also the most popular ending station overall, followed by Newport Pkwy and Hamilton Park.
+As similar pattern is seen for ending stations, where Grove Path remains the most popular station, followed by Newport Pkwy and Hamilton Park.
 
 ![End Station](images/end_station.PNG)
 
