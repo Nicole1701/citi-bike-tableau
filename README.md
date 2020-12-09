@@ -6,7 +6,7 @@
 
 For this project, data from the rolling 12-month period (Nov 2019 - Oct 2020) was used. Data was first cleaned to remove anyone with a birthdate of 1920 or earlier and then for any outliers for trip duration in order to make sure the data was as viable as possible.
 
-[Link to Tableau Workbook](https://public.tableau.com/profile/nicole1701#!/vizhome/BikeCityData/CityBikeData)
+[Link to Tableau Workbook](https://public.tableau.com/profile/nicole1701#!/vizhome/CitiBikeData_16071222827510/CityBikeData)
 
 [Citi Bike System Data ](https://www.citibikenyc.com/system-data)
 
